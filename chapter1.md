@@ -1,8 +1,18 @@
 # 魔豆服务器开发基础项目框架
 ## Maven的集成和使用
+
+### 为什么要使用Maven
+1. 抛弃以前的Jar文件引入方式，防止文件冲突
+2. 如何查找Maven库项目
 ### Maven集成到项目
+1. 如何引入其他库文件
+2. scope的作用
+3. optional的作用
+4. 项目如何打包？打包相关配置，resource|plugin
 ### Maven常用命令使用
+1. mvn clean （eg：mvn clean package @DskipTests)
 ### Maven项目中管理
+### 定义Maven项目原型
 ## 极力推荐SpringBoot作为开发框架
 ### SpringBoot与SpringMVC的区别
 ### SpringBoot的优势
@@ -13,13 +23,14 @@
 ### 代码自动生成器
 ### 实体CRUD简易操作
 ### 数据操作拦截器
-## 基于SpringBoot+Maven+Mybatis集成框架
+## 基于SpringBoot+Maven+MyBatis集成框架
 ### 基础项目结构
 ### 针对各种场景的解决方案
 1. 如何解决棘手的跨域问题
 2. 如何控制不同访问权限
 3. 如何配置静态资源控制
 4. 如何是灵活打包
+5. 解决jar包引入混乱问题
 ### 权限解决方案
 ### session同步解决方案
 ### 日志高级使用方法
