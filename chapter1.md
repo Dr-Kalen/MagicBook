@@ -1,3 +1,29 @@
-# First Chapter
-
+# 魔豆服务器开发基础项目框架
+## Maven的集成和使用
+### Maven集成到项目
+### Maven常用命令使用
+### Maven项目中管理
+## 极力推荐SpringBoot作为开发框架
+### SpringBoot与SpringMVC的区别
+### SpringBoot的优势
+### SpringBoot部署方式
+## 项目中Mybatis的使用
+### 数据分页插件
+### 二级缓存集成
+### 代码自动生成器
+### 实体CRUD简易操作
+### 数据操作拦截器
+## 基于SpringBoot+Maven+Mybatis集成框架
+### 基础项目结构
+### 针对各种场景的解决方案
+1. 如何解决棘手的跨域问题
+2. 如何控制不同访问权限
+3. 如何配置静态资源控制
+4. 如何是灵活打包
+### 权限解决方案
+### session同步解决方案
+### 日志高级使用方法
+### 自动生成API插件集成
+### 全局配置处理
+### 统一后台开发语言Freemark
 GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
