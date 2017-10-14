@@ -1,5 +1,2 @@
-# SpringBoot项目框架
-
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
-
-测试SpringBoot书籍
+# 描述
+1. 2017年10月13日主题：基于SpringBoot+Maven+MyBatis技术框架
